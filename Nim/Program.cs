@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RockPileGame {
+namespace Nim {
     class Program {
         static void Main(string[] args) {
             const int numOfPiles = 5;
